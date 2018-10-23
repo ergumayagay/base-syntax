@@ -7,6 +7,7 @@ class UserOuput extends Component {
         return (
             <div className="UserOutput">
                 <p>{this.props.username}</p>
+                <p>This is awesome</p>
             </div>
         )
     }
